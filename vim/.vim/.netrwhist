@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/zhengxingcheng/.vim/colors'
+let g:netrw_dirhist_2='/Users/zhengxingcheng/.vim'
+let g:netrw_dirhist_3='/Users/zhengxingcheng/.vim/doc'
+let g:netrw_dirhist_4='/Users/zhengxingcheng/.vim'
+let g:netrw_dirhist_5='/Users/zhengxingcheng/.vim/plugin'
+let g:netrw_dirhist_6='/Users/zhengxingcheng/.vim'
+let g:netrw_dirhist_7='/Users/zhengxingcheng/.vim/autoload'
+let g:netrw_dirhist_8='/Users/zhengxingcheng/.vim'
